@@ -5,4 +5,4 @@
 * Вывод результатов (Правильный или Неправильный)
 * В конце вывод статистики
 
-![Riddle](https://i.imgur.com/HT2780a.png)
+![Riddle](https://i.imgur.com/k6kQIT6.png)

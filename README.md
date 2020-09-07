@@ -1,2 +1,2 @@
 # PythonForNoob
-# PythonForNoob
+Тут будет код который я буду писать вов время обучения Python.

@@ -21,7 +21,7 @@ while ( flag1 != 1 ):
 	    right += 1
 	    flag1 = 1
 	else:
-		print('\nНе правильно!\n')
+		print('\nНеправильно!\n')
 		wrong += 1
 		flag1 = 1
 
@@ -45,7 +45,7 @@ while ( flag2 != 1 ):
 	    right += 1
 	    flag2 = 1
 	else:
-		print('\nНе правильно!\n')
+		print('\nНеправильно!\n')
 		wrong += 1
 		flag2 = 1
 
@@ -67,7 +67,7 @@ while ( flag3 != 1 ):
 	    right += 1
 	    flag3 = 1
 	else:
-		print('\nНе правильно!\n')
+		print('\nНеправильно!\n')
 		wrong += 1
 		flag3 = 1
 
@@ -75,5 +75,5 @@ while ( flag3 != 1 ):
 print('{0:*^30}'.format('КОНЕЦ'))
 print('\nВсего дано ответов: ', wrong+right)
 print('Правильных: ', right)
-print('Не правильных:', wrong, '\n')
+print('Неправильных:', wrong, '\n')
 print('{0:*^30}'.format(''))
